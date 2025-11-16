@@ -9,7 +9,7 @@ This project designs and implements a normalized relational database (MySQL) to 
 
 ## Quick Summary
 
-![Archaeological Dashboard](/Dokumentasi%20BudiBase/Dashboard%20Awal.png)
+![Archaeological Dashboard](/Dokumentasi%20BudiBase/Dashboard%20Awal.jpg)
 
 Dashboard displays:
 - **Total 11 Artifacts** discovered by **5 Archaeologists** across **9 Sites**
