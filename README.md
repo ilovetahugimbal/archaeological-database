@@ -25,7 +25,7 @@ Dashboard menampilkan:
 ### Entity-Relationship Diagram (ERD)
 Database menggunakan **star schema** ternormalisasi dengan 7 entitas utama:
 
-![ERD](ERD%20Arkeolog.drawio.png)
+![ERD](ERD%20Arkeolog.drawio.jpg)
 
 ### Tabel Utama
 
